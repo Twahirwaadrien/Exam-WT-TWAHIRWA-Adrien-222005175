@@ -1,0 +1,157 @@
+   
+    body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:yellow;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    background-color:bold;
+    padding: 10px 20px;
+    color: #fff;
+}
+
+.logo {
+
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.menu-bar {
+    direction: left;
+    background-color:green;
+
+}
+
+.menu-bar ul {
+    list-style-type: none;
+    margin: 20;
+    padding: 20;
+    display: flex;
+}
+
+.menu-bar li {
+    margin-left:30px;
+}
+h1{
+  text-align: center;
+  text-decoration-line:black;
+}
+
+label{
+  font-family: century;
+  font-size: 26px;
+  font-weight: bold;
+}
+.input{
+  text-align: center;
+  font-size: 14px;
+  width: 250px;
+  height: 30px;
+  border-radius: 12px;
+  border-color: blue;
+}
+#input{
+  text-align: center;
+  font-size: 14px;
+  width: 250px;
+  height: 30px;
+  border-radius: 12px;
+  border-color: blue;
+}
+#button{
+  background-color: blue;
+  padding: 10px;
+  width: 95px;
+  color: white;
+  font-family: century;
+  font-weight: bold;
+  font-style: italic;
+  border-radius: 10px;
+}
+#btton{
+  background-color: red;
+  padding: 10px;
+  width: 95px;
+  color: white;
+  font-family: century;
+  font-weight: bold;
+  font-style: italic;
+  border-radius: 10px;
+}
+p{
+  text-align: center;
+  font-family: century;
+  font-size: 20px;
+  font-weight: bold;
+  color: green;
+}
+.hrf{
+  border-radius: 12px;
+  border-color: blue;
+  width: 130px;
+  height: 90px;
+  text-decoration: none;
+        }
+.form{
+ text-align:center;
+  border: 4px solid;
+  width: 400px;
+  height:700px;
+}
+#form{
+ text-align:center;
+  border: 4px solid;
+  width: 400px;
+  height:400px;
+}
+
+
+.header {
+    display: flex;
+    align-items: center;
+    background-color:yellow;
+    padding: 10px 20px;
+    color: #fff;
+}
+
+.logo {
+  font-size: 40px;
+    font-weight: bold;
+}
+
+
+.menu-bar ul {
+    list-style-type: none;
+    margin: 20;
+    padding: 20;
+    display: flex;
+}
+.menu-bar a {
+    text-align: center;
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+    padding: 5px 10px;
+
+}
+
+.menu-bar a:hover {
+    background-color:white;
+    border-radius: 5px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
